@@ -1,0 +1,16 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+.Bulb{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 4px solid skyblue;
+
+}
+.Button{
+    padding: 7%;
+    margin: 9%;
+    
+}
